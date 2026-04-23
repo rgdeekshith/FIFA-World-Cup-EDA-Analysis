@@ -1,1 +1,1 @@
-# FIFA-World-Cup-EDA-Analysis
+This project explores the history of the FIFA World Cup from 1930 to 2022 using match‑level data. The goal is to understand long‑term scoring trends, team performance, and stage‑wise patterns through exploratory data analysis (EDA).
